@@ -1,0 +1,2 @@
+# BCD-divider-architecture-for-high-speed-vlsi-design-using-vedic-mathematics
+In this project we have implemented an optimized BCD division architecture using sutras of Vedic Mathematics which is Nikhilam Sutra. The algorithms have been implemented with improved results of time delay and are with fewer complexities. The proposed division algorithm is coded in Verilog, synthesized and simulated using Cadence design suit 13.1. Simulated results for proposed Vedic divider circuit shows a reduction in delay of 29.9% than the conventional method
